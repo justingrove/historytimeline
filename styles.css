@@ -11,6 +11,11 @@ body {
 	place-items: center;
 }
 
+img {
+	width: 50%;
+	height: auto;
+}
+
 .wrapper {
 	max-width: 100ch;
 }
